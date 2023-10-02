@@ -1,1 +1,1 @@
-let x = document.getElementById('boton')
+let d = document.getElementById('boton')
